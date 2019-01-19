@@ -124,7 +124,7 @@ The Dash tool captures
 ###
 **Summary**
 
-[Slideset](./slides/teamstreetview_slides.pdf) presented at General Assembly on January 18, 2019.
+[Slideset]presented at General Assembly on January 18, 2019.
 
 *   Inspiration
 *   Usage scenario
