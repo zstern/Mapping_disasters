@@ -1,4 +1,8 @@
+A group consulting project; the scenario described fully below.  I developed all the code contained in the code/dash/ file including the mapping function which maps all the houses, their street view photo, their address and zillow estimate onto each point of the map:
+
 ### Mapping demo: https://zstern.github.io/multi_map_200
+
+It uses the google, bing and zillow api to gather the requisite information and plot it to each map location based upon the exif data read off of an iphone picture taken in front of each house location.  
 
 
 ### **ImageGEO: A collaboration between New Light Technologies and General Assembly's Team Street View**
