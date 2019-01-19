@@ -124,11 +124,6 @@ The Dash tool captures
 ###
 **Summary**
 
-[Slideset]presented at General Assembly on January 18, 2019.
+Presented at General Assembly on January 18, 2019.
 
-*   Inspiration
-*   Usage scenario
-*   Live demonstration
-*   Under the hood
-*   Further improvements
-*   Takeaways
+
